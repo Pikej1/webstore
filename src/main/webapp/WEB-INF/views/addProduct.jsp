@@ -18,6 +18,9 @@
 					<p>Dodaj produkty</p>
 				</div>
 				<a href="<c:url value="/j_spring_security_logout" />" class="btn btn-danger btn-mini pull-right">Wyloguj sie</a>
+				<div class="pull-right" style="padding-right:50px">
+					<a href="?language=pl" >polski</a>|<a href="?language=nl">holenderski</a>
+				</div>
 			</div>
 		</section>
 		<section class="container">
